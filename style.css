@@ -1,0 +1,13 @@
+.form-group{
+  max-width: 900px;
+  margin: 120px auto;
+  border: 1px solid #0B5ED7;
+  border-radius: 4px;
+  padding: 80px;
+}
+form input, form button{
+  margin-bottom: 20px;
+}
+.form-group h2{
+  margin-bottom: 40px;
+}
